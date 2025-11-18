@@ -8,20 +8,30 @@
 🌐 GitHub : github.com/yosramezgar
 
 📱 Téléphone : +216 96 973 754
-📍 Monastir, Tunisie
+📍 Localisation : Monastir, Tunisie
 
 📝 Profil
 
-Ingénieure en développement logiciel, passionnée par la création de solutions web modernes, performantes et centrées sur l’expérience utilisateur. Autonome, motivée et polyvalente, je m’adapte rapidement aux technologies et aux exigences des projets, avec une forte capacité à contribuer dans des environnements innovants et dynamiques.
+Ingénieure en développement logiciel, passionnée par la conception et la création de solutions web modernes, performantes et orientées expérience utilisateur. Curieuse, polyvalente et motivée, je m’adapte rapidement aux nouvelles technologies et je m’intègre facilement dans des environnements dynamiques et innovants.
 
-🛠 Compétences Techniques
+🛠️ Compétences Techniques
 🧩 Modélisation
 
-StarUML, draw.io
+StarUML
 
-💻 Langages de programmation
+draw.io
 
-JavaScript, TypeScript, PHP, C#, Java
+💻 Langages de Programmation
+
+JavaScript
+
+TypeScript
+
+PHP
+
+C#
+
+Java
 
 📚 Bibliothèques
 
@@ -29,23 +39,53 @@ React.js
 
 🧱 Frameworks
 
-Symfony, Spring Boot, Express.js, Node.js, .NET, Bootstrap, TailwindCSS
+Symfony
+
+Spring Boot
+
+Express.js
+
+Node.js
+
+.NET
+
+Bootstrap
+
+TailwindCSS
 
 🖥️ Systèmes
 
-Windows, Linux (Ubuntu)
+Windows
+
+Linux (Ubuntu)
 
 🛠️ IDE & Outils
 
-Visual Studio Code, NetBeans, Eclipse, Android Studio, Git, Postman
+Visual Studio Code
 
-🗃️ Bases de données
+NetBeans
 
-MongoDB, MySQL
+Eclipse
+
+Android Studio
+
+Git
+
+Postman
+
+🗄️ Bases de Données
+
+MongoDB
+
+MySQL
 
 🔧 Services & Architecture
 
-REST, JSON, MVC
+REST
+
+JSON
+
+MVC
 
 💼 Expérience Professionnelle
 🧭 Ingénieure Logiciel – Maps-IT
@@ -54,9 +94,9 @@ REST, JSON, MVC
 
 Développement d’une application web de visite virtuelle 360°.
 
-Intégration d’outils DevOps (GitHub Actions, Docker).
+Intégration des outils DevOps : GitHub Actions, Docker.
 
-Stack : MongoDB, React.js, TailwindCSS, Spring Boot.
+Stack : React.js, TailwindCSS, Spring Boot, MongoDB.
 
 💻 Stagiaire Développement Full Stack – TANIT
 
@@ -72,9 +112,9 @@ Stack : MongoDB, Express.js, React.js, Node.js.
 
 📅 Juillet 2023 – Août 2023 | Monastir
 
-Développement d’une application de gestion de stock.
+Développement d’une application de gestion de stock pour boutiques.
 
-Fonctionnalités de suivi en temps réel pour boutiques et commerçants.
+Intégration de fonctionnalités de suivi en temps réel.
 
 Stack : React.js, JavaScript, Bootstrap.
 
@@ -82,34 +122,31 @@ Stack : React.js, JavaScript, Bootstrap.
 
 📅 Février 2022 – Juin 2022 | Sousse
 
-Mise en place d’un système de contrôle et surveillance à distance.
+Mise en place d’un système de contrôle et de surveillance à distance.
 
-Utilisation de RFID, caméras, capteurs DHT11.
+Utilisation de RFID, caméras de surveillance, capteurs DHT11.
 
-Fonctionnalités : contrôle d’accès, monitoring en temps réel, suivi environnemental.
+Fonctionnalités : contrôle d’accès, surveillance en temps réel, suivi environnemental.
 
 🎓 Formation
 
 🎓 Diplôme d’Ingénieure en Génie Logiciel
 POLYTECH Monastir | 2022 – 2025
-Mention : Très Bien
+📌 Mention : Très Bien
 
 🎓 Licence en Systèmes Embarqués & IoT
 ISIMA Mahdia | 2019 – 2022
 
 🎓 Baccalauréat Mathématique
 Lycée Bekalta | 2019
-Mention : Assez Bien
+📌 Mention : Assez Bien
 
 🚀 Projets Académiques
 
 🏘️ Gestion des Incidents Immobiliers – Stack MERN
-
-🏨 Gestion Hôtelière – Symfony, phpMyAdmin
-
+🏨 Système de Gestion Hôtelière – Symfony, phpMyAdmin
 📚 Gestion de Bibliothèque – .NET, C#, Access
-
-💊 Gestion des Produits Médicaux – PHP, JS, Bootstrap, HTML/CSS
+💊 Gestion de Produits Médicaux – PHP, JavaScript, Bootstrap
 
 🌍 Langues
 
@@ -121,4 +158,6 @@ Mention : Assez Bien
 
 🎯 Centres d’Intérêt
 
-📸 Photographie | 🏃‍♀️ Sport | 📚 Lecture
+📸 Photographie
+🏃‍♀️ Sport
+📚 Lecture
