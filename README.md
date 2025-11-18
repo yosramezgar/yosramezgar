@@ -1,6 +1,6 @@
 🌟 Yosra Mezgar
 💻 Ingénieure Logiciel Full Stack
-<p align="center"> <img src="https://i.imgur.com/hD3c0v8.png" width="100%" alt="banner"> </p> <p align="center"> <a href="mailto:yosramezgar0@gmail.com"><img src="https://img.shields.io/badge/Email-DF0000?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/yosra-mezgar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/yosramezgar"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a> </p>
+src="https://img.shields.io/badge/Email-DF0000?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/yosra-mezgar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/yosramezgar"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a> </p>
 
 📍 Monastir, Tunisie · 📱 +216 96 973 754
 
@@ -80,5 +80,4 @@ Gestion de Produits Médicaux — PHP / JS / Bootstrap
 
 📸 Photographie · 🏃‍♀️ Sport · 📚 Lecture
 
-📊 Statistiques GitHub
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=yosramezgar&show_icons=true&theme=radical"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosramezgar&layout=compact&theme=radical"> </p>
+
