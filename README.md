@@ -1,7 +1,7 @@
 **🌟 Yosra Mezgar**  
 **💻 Ingénieure Logiciel Full Stack**  
 <p align="center"> 
-  <a href="mailto:yosramezgar0@gmail.com"><img src="https://img.shields.io/badge/Email-DF0000?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <a href="mailto:yosramezgar0@gmail.com">yosramezgar0@gmail.com</a>  
   <a href="https://www.linkedin.com/in/yosra-mezgar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://github.com/yosramezgar"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a> 
 </p>
