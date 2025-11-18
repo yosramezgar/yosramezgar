@@ -1,24 +1,52 @@
-🌟 Bienvenue sur mon GitHub !
-<p align="center"> <img src="https://i.imgur.com/Jz8gC8d.png" alt="banner" width="100%"> </p>
 👩‍💻 Yosra Mezgar
-💻 Ingénieure Logiciel Full Stack | Développement Web & DevOps
-<p align="center"> <a href="mailto:yosramezgar0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/yosra-mezgar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/yosramezgar"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a> </p>
+💻 Ingénieure Logiciel Full Stack
 
+📧 Email : yosramezgar0@gmail.com
+
+🔗 LinkedIn : Yosra Mezgar
+
+🌐 GitHub : github.com/yosramezgar
+
+📱 Téléphone : +216 96 973 754
 📍 Monastir, Tunisie
-📱 +216 96 973 754
 
 📝 Profil
 
-Ingénieure en développement logiciel passionnée par la création d’applications modernes, performantes et intuitives.
-Polyvalente, autonome et motivée, je maîtrise plusieurs technologies web, mobiles et backend, tout en m’adaptant rapidement aux besoins des projets.
+Ingénieure en développement logiciel, passionnée par la création de solutions web modernes, performantes et centrées sur l’expérience utilisateur. Autonome, motivée et polyvalente, je m’adapte rapidement aux technologies et aux exigences des projets, avec une forte capacité à contribuer dans des environnements innovants et dynamiques.
 
-🛠️ Compétences Techniques
-🚀 Langages & Frameworks
-<p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> </p>
-🗂️ Bases de Données
-<p> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> </p>
-🧰 Outils & DevOps
-<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> </p>
+🛠 Compétences Techniques
+🧩 Modélisation
+
+StarUML, draw.io
+
+💻 Langages de programmation
+
+JavaScript, TypeScript, PHP, C#, Java
+
+📚 Bibliothèques
+
+React.js
+
+🧱 Frameworks
+
+Symfony, Spring Boot, Express.js, Node.js, .NET, Bootstrap, TailwindCSS
+
+🖥️ Systèmes
+
+Windows, Linux (Ubuntu)
+
+🛠️ IDE & Outils
+
+Visual Studio Code, NetBeans, Eclipse, Android Studio, Git, Postman
+
+🗃️ Bases de données
+
+MongoDB, MySQL
+
+🔧 Services & Architecture
+
+REST, JSON, MVC
+
 💼 Expérience Professionnelle
 🧭 Ingénieure Logiciel – Maps-IT
 
@@ -26,54 +54,71 @@ Polyvalente, autonome et motivée, je maîtrise plusieurs technologies web, mobi
 
 Développement d’une application web de visite virtuelle 360°.
 
-Intégration DevOps : Docker, GitHub Actions.
+Intégration d’outils DevOps (GitHub Actions, Docker).
 
-Stack : React.js, TailwindCSS, Spring Boot, MongoDB.
+Stack : MongoDB, React.js, TailwindCSS, Spring Boot.
 
-💻 Stagiaire Full Stack – TANIT
+💻 Stagiaire Développement Full Stack – TANIT
 
 📅 Juin 2024 – Août 2024 | Monastir
 
-Développement d’une plateforme e-commerce MERN.
+Développement d’une application e-commerce avec MERN.
 
-Gestion des stocks et interfaces intuitives.
+Conception d’une interface intuitive et d’un système robuste de gestion des stocks.
 
-🖥️ Stagiaire Frontend – NXTYA
+Stack : MongoDB, Express.js, React.js, Node.js.
+
+🖥️ Stagiaire Développement Frontend – NXTYA
 
 📅 Juillet 2023 – Août 2023 | Monastir
 
-Application de gestion de stock.
+Développement d’une application de gestion de stock.
+
+Fonctionnalités de suivi en temps réel pour boutiques et commerçants.
 
 Stack : React.js, JavaScript, Bootstrap.
 
-🛰️ Projet Fin d’Études – SOPROCOME
+🛰️ Stagiaire Fin d’Études – SOPROCOME
 
 📅 Février 2022 – Juin 2022 | Sousse
 
-Système de contrôle distant sécurisé avec RFID, caméras et capteurs.
+Mise en place d’un système de contrôle et surveillance à distance.
 
-📊 Statistiques GitHub
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=yosramezgar&show_icons=true&theme=radical"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosramezgar&layout=compact&theme=radical"> </p>
-📚 Projets Académiques
+Utilisation de RFID, caméras, capteurs DHT11.
 
-Gestion des incidents immobiliers (MERN)
-
-Gestion hôtelière (Symfony)
-
-Application de bibliothèque (C# / .NET)
-
-Gestion de produits médicaux (PHP / JS / Bootstrap)
+Fonctionnalités : contrôle d’accès, monitoring en temps réel, suivi environnemental.
 
 🎓 Formation
 
-Diplôme d’ingénieure en Génie Logiciel – POLYTECH Monastir
+🎓 Diplôme d’Ingénieure en Génie Logiciel
+POLYTECH Monastir | 2022 – 2025
+Mention : Très Bien
 
-Licence en Systèmes Embarqués & IoT – ISIMA Mahdia
+🎓 Licence en Systèmes Embarqués & IoT
+ISIMA Mahdia | 2019 – 2022
+
+🎓 Baccalauréat Mathématique
+Lycée Bekalta | 2019
+Mention : Assez Bien
+
+🚀 Projets Académiques
+
+🏘️ Gestion des Incidents Immobiliers – Stack MERN
+
+🏨 Gestion Hôtelière – Symfony, phpMyAdmin
+
+📚 Gestion de Bibliothèque – .NET, C#, Access
+
+💊 Gestion des Produits Médicaux – PHP, JS, Bootstrap, HTML/CSS
 
 🌍 Langues
 
-🇫🇷 Français | 🇬🇧 Anglais | 🇹🇳 Arabe
+🇫🇷 Français
 
-🎯 Centres d’intérêt
+🇬🇧 Anglais
+
+🇹🇳 Arabe
+
+🎯 Centres d’Intérêt
 
 📸 Photographie | 🏃‍♀️ Sport | 📚 Lecture
